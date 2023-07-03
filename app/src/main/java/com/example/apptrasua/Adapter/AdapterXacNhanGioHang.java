@@ -22,6 +22,7 @@ public class AdapterXacNhanGioHang extends RecyclerView.Adapter<AdapterXacNhanGi
     ArrayList<GioHang> arrayList;
     Context context;
     // bundle.putSerializable("ObJect", loaiSP);
+    //mmmmmmmmmmmmmm
 
     public AdapterXacNhanGioHang(ArrayList<GioHang> arrayList, Context context) {
         this.arrayList = arrayList;
